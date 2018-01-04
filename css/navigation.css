@@ -1,0 +1,16 @@
+.navigation-pagepart {
+	float: left;
+	width: 100%;
+	background-color: purple;
+	color: #ffffff;
+}
+
+.navigation-pagepart a:link {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.navigation-pagepart a:hover, .navigation-pagepart a:focus, .navigation-pagepart a:visited {
+	color: #ffffff;
+	text-decoration: underline;
+}
